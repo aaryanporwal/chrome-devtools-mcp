@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.1.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/compare/chrome-devtools-mcp-v1.0.1...chrome-devtools-mcp-v1.1.0) (2026-05-20)
+
+
+### 🎉 Features
+
+* add extraHttpHeaders emulation to emulate tool ([#1176](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/1176)) ([6992106](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/6992106d1ca3bcd9390165035e7b0a3acb7e7317))
+
+
+### 🛠️ Fixes
+
+* make pageId required ([#2084](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/2084)) ([d751693](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/d751693d887fae4ef7a1e7204545192322cf7820)), closes [#2052](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/2052)
+
+
+### 📄 Documentation
+
+* fix installation instructions for VS Code ([#2087](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/2087)) ([9f47df3](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/9f47df36847cd69b99873709e7ed3936347b648e))
+
 ## [1.0.1](https://github.com/ChromeDevTools/chrome-devtools-mcp/compare/chrome-devtools-mcp-v1.0.0...chrome-devtools-mcp-v1.0.1) (2026-05-18)
 
 
